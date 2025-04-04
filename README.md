@@ -1,3 +1,9 @@
-### SQL-CAPSTONE-PROJECT
+# Project Title
 
-#### DIgigirl project work under the Cybersafe foundation
+# Project Objective
+
+# Data Sourcing
+
+# Data Transformation
+
+# Findings/Recommendations
