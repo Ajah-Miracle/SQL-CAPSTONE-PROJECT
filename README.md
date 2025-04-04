@@ -1,9 +1,4 @@
-# Project Title
+# Project Title: Postgresql Digigirl Capstone Project
 
-# Project Objective
+# Project Objective: To gain insight through querying of data
 
-# Data Sourcing
-
-# Data Transformation
-
-# Findings/Recommendations
